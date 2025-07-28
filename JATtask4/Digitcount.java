@@ -15,7 +15,7 @@ class Digitcount {
         int digitCount = numStr.length();         
 
         System.out.println("Number of characters in " + number + " = " + digitCount); 
-        scanner.close();                          
+        
 
 	}
 
